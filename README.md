@@ -15,6 +15,7 @@ A collection of highly questionable life choices disguised as algorithms.
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RiddheshRajwadkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/RiddheshRajwadkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1763-longest-nice-substring](https://github.com/RiddheshRajwadkar/LeetCode/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of highly questionable life choices disguised as algorithms.
 | [0594-longest-harmonious-subsequence](https://github.com/RiddheshRajwadkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/RiddheshRajwadkar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/RiddheshRajwadkar/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/RiddheshRajwadkar/LeetCode/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -30,4 +32,16 @@ A collection of highly questionable life choices disguised as algorithms.
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/RiddheshRajwadkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+## String
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/RiddheshRajwadkar/LeetCode/tree/master/1763-longest-nice-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/RiddheshRajwadkar/LeetCode/tree/master/1763-longest-nice-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/RiddheshRajwadkar/LeetCode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
